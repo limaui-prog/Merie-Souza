@@ -1,0 +1,25 @@
+@import url('header.css');
+@import url('main.css');
+@import url('footer.css');
+@import url('sobre.css');
+
+:root {
+    --black: #1e1d1d;
+    --white: #ffffff;
+    --cinza: #f5f5f5;
+}
+
+html{
+    background-color: #f5f5f5;}
+
+body{
+    background-color: #f5f5f5;
+}
+* {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 500;
+  }
